@@ -1,0 +1,45 @@
+---
+title: "Welcome to Sampson Zhao"
+description: |
+  Welcome to our new blog, Sampson Zhao. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 03-06-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+#### Setup workspace ####
+# install.packages("opendatatoronto")
+# install.packages("tidyverse")
+# install.packages("ggplot2")
+# install.packages("knitr")
+# install.packages("here")
+# install.packages("kableExtra") 
+# install.packages('reshape2')
+# install.packages("haven")
+# install.packages("scales")
+
+library(tidyverse)
+library(knitr)
+library(here)
+library(kableExtra)
+library(reshape2)
+library(haven)
+library(scales)
+library(distill)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

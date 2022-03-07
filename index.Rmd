@@ -1,0 +1,22 @@
+---
+title: "Sampson Zhao"
+image: "IMG_1536.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sampson-z-887a558a/"
+  - label: Twitter
+    url: "https://twitter.com/Sampsonzhao"
+  - label: GitHub
+    url: "https://github.com/Sampsonzhao"
+  - label: Email
+    url: "mailto:sampson.zhao@mail.utoronto.ca"
+output:
+  postcards::jolla_blue
+site: distill::distill_website
+---
+ 
+ 
+Born and Raised in Toronto, Canada, I am currently a junior researcher at
+the University of Toronto in the Pharmacology Department. I also work in 
+Metadata Services Department of the University of Toronto Libraries. If you have
+any interests in the custom world of Mechanical Keyboards, I'd love to chat!

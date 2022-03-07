@@ -1,0 +1,11 @@
+---
+title: "About this blog"
+description: |
+  Some additional details about Sampson
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+As a recent graduate from the life sciences, I found myself in a weird predicament, where labs were able to take students due to their struggles with fundings, as well as restrictions placed on the amount of people allowed in their labs, I ended up finding a job through the University of Toronto Libraries, in the Metadata Services Department. I am currently working as a SLA, under the guidance of [May Chan](https://onesearch.library.utoronto.ca/library-staff/29463/may-chan). As well, I have the opportunity to work with the Salahpour Lab with [Dr. Ali Salahpour](https://www.researchgate.net/profile/Ali-Salahpour) and Erin Williams, as help to progress on the understanding of the Dopamine Receptor in relation to Dopamine Receptor Deficiency Syndrome. Primarily, I was able to learn and work with different mutations found on the dopamine receptor that were found to cause DRDS, and used different in-vitro experiments to test the overall effects of different mutations on the Dopamine receptor. The goal of the experiments were to understand the effects of small mutations, as well as to look for drugs that may aid the repair of the receptor so that it has normal receptor function. 
